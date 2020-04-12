@@ -1,4 +1,4 @@
-# OKTA-AuthScope-Rest-API-C#-
+# OKTA-AuthScope-Rest-API-.NET-C#
 Setting up authorization scopes in Okta to authorize rest api's in a .NET project
 
 The AuthorizeScopeAttribute class provides ability to define custom authorization scope on an API.
